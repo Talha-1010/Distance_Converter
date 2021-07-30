@@ -32,7 +32,7 @@ var form = document.getElementById('convert');
         }
         else
         {//if distance is an invalid number for e.g a string
-            ans.innerHTML= `<h2> Please enter a valid number</h2>`
+            ans.innerHTML= `<h2> Please provide a valid number</h2>`
         }
 
         
